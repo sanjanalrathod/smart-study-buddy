@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study Buddy - AI College Companion & Android Builder",
+  "description": "Smart Study Buddy Android app for college students featuring an AI simple-language tutor, note organizer, custom quiz generator, exam study planner, and PDF summarizer with complete Java Android Studio codebase and step-by-step beginner guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
